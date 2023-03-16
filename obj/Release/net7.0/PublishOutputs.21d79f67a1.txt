@@ -1,0 +1,11 @@
+/Users/webdizz/dev/projects/LTMS-LMS/code/dotnet-asb-svc/AsbApp/bin/Release/net7.0/publish/DotNet.Docker
+/Users/webdizz/dev/projects/LTMS-LMS/code/dotnet-asb-svc/AsbApp/bin/Release/net7.0/publish/DotNet.Docker.dll
+/Users/webdizz/dev/projects/LTMS-LMS/code/dotnet-asb-svc/AsbApp/bin/Release/net7.0/publish/DotNet.Docker.deps.json
+/Users/webdizz/dev/projects/LTMS-LMS/code/dotnet-asb-svc/AsbApp/bin/Release/net7.0/publish/DotNet.Docker.runtimeconfig.json
+/Users/webdizz/dev/projects/LTMS-LMS/code/dotnet-asb-svc/AsbApp/bin/Release/net7.0/publish/DotNet.Docker.pdb
+/Users/webdizz/dev/projects/LTMS-LMS/code/dotnet-asb-svc/AsbApp/bin/Release/net7.0/publish/Azure.Core.dll
+/Users/webdizz/dev/projects/LTMS-LMS/code/dotnet-asb-svc/AsbApp/bin/Release/net7.0/publish/Azure.Core.Amqp.dll
+/Users/webdizz/dev/projects/LTMS-LMS/code/dotnet-asb-svc/AsbApp/bin/Release/net7.0/publish/Azure.Messaging.ServiceBus.dll
+/Users/webdizz/dev/projects/LTMS-LMS/code/dotnet-asb-svc/AsbApp/bin/Release/net7.0/publish/Microsoft.Azure.Amqp.dll
+/Users/webdizz/dev/projects/LTMS-LMS/code/dotnet-asb-svc/AsbApp/bin/Release/net7.0/publish/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/webdizz/dev/projects/LTMS-LMS/code/dotnet-asb-svc/AsbApp/bin/Release/net7.0/publish/System.Memory.Data.dll

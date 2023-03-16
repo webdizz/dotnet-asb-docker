@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "J1wYKTc81j2igL6qXpRAEVgLfjhBEI6plF6KcNBC4XRUwJzp6pl8jBygU1E/B3zXugOr5o4rqo5etCs52v8a/g==",
+  "success": true,
+  "projectFilePath": "/Users/webdizz/dev/projects/LTMS-LMS/code/dotnet-asb-svc/AsbApp/DotNet.Docker.csproj",
+  "expectedPackageFiles": [
+    "/Users/webdizz/.nuget/packages/azure.core/1.30.0/azure.core.1.30.0.nupkg.sha512",
+    "/Users/webdizz/.nuget/packages/azure.core.amqp/1.3.0/azure.core.amqp.1.3.0.nupkg.sha512",
+    "/Users/webdizz/.nuget/packages/azure.messaging.servicebus/7.13.1/azure.messaging.servicebus.7.13.1.nupkg.sha512",
+    "/Users/webdizz/.nuget/packages/microsoft.azure.amqp/2.6.1/microsoft.azure.amqp.2.6.1.nupkg.sha512",
+    "/Users/webdizz/.nuget/packages/microsoft.bcl.asyncinterfaces/1.1.1/microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
+    "/Users/webdizz/.nuget/packages/system.diagnostics.diagnosticsource/4.6.0/system.diagnostics.diagnosticsource.4.6.0.nupkg.sha512",
+    "/Users/webdizz/.nuget/packages/system.memory/4.5.4/system.memory.4.5.4.nupkg.sha512",
+    "/Users/webdizz/.nuget/packages/system.memory.data/1.0.2/system.memory.data.1.0.2.nupkg.sha512",
+    "/Users/webdizz/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/webdizz/.nuget/packages/system.text.encodings.web/4.7.2/system.text.encodings.web.4.7.2.nupkg.sha512",
+    "/Users/webdizz/.nuget/packages/system.text.json/4.7.2/system.text.json.4.7.2.nupkg.sha512",
+    "/Users/webdizz/.nuget/packages/system.threading.tasks.extensions/4.5.4/system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}
